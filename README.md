@@ -1,6 +1,8 @@
+![logo](https://github.com/HarshadKumbhar0822/HarshadKumbhar0822/blob/main/Frame.png)
 <h1 align="center">Hi 👋, I'm Harshad Kumbhar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
+
+<img align="right" alt="coding" width="400" src="https://i0.wp.com/kotapoint.in/wp-content/uploads/2023/09/ds-3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadkumbhar0822&label=Profile%20views&color=0e75b6&style=flat" alt="harshadkumbhar0822" /> </p>
 
